@@ -1,6 +1,6 @@
 # Python-Guessing-Game
 
-> If you wanna use Python editor, please make sure Python version 3x is installed on your system.  
+> If you wish to use Python editor, please make sure Python version 3x is installed on your system.  
 > Alternatively, you can use Visual Code Studio/VScodium and run this file. Python extensions are also available. 
 
 ## Description
