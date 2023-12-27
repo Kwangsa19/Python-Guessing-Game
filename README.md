@@ -30,3 +30,7 @@ When the guess number is higher than the random number.
         print('Not quite right. You aimed too high. Though it is reasonable, sometimes the solution is just in front of our eyes. Keep looking! So far, you have made', attempts, 'attempts.')
         true_number = random.randint(1,10) # Regenerate a new random number
 ```
+## Future Works
+
+*  Create an interface using Tkinter.
+*  Limit user attempts to 3, displaying a message of "Thank you for your efforts. Please try again!" upon the third unsuccessful try.
